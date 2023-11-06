@@ -1,4 +1,4 @@
-class Employee
+class Employee   //This is employee application
 {
          public static void main(String agrs[])
          { 
